@@ -1,0 +1,305 @@
+body{
+  width: 100%;
+}
+
+
+/*   PREMIERE PAGE*/
+.fond{
+
+background-image:url(fond.png);
+width: 100%;
+height: 600px;
+margin-top: -27px;;
+margin-left: -10px;
+}
+
+.position-image{
+margin-top: 30px;
+margin-left: 20px;
+}
+
+.bonsai{
+  color: #fefefe;
+    font-family: "Novecento Wide", "Helvetica Neue", sans-serif;
+    letter-spacing: 4px;
+    font-size: 18px;
+    display: inline-block;
+position: relative;
+margin-top: 25px;
+}
+
+.float{float: right;
+margin-right: 5px;
+padding: 20px 15px 20px;
+    font-size: 14px;
+    letter-spacing: 1px;
+        text-transform: uppercase;
+        color: #fefefe;
+}
+
+
+.b{
+  width: 30px;
+margin-right: 5px;
+}
+
+
+
+.titre{
+
+margin-top: 200px;
+    color: #fefefe;
+margin-bottom: 15px;
+    padding: 12px 22px;
+    font-size: 16px;
+text-align: center;
+font-size: 42px;
+    font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+
+}
+
+.get{
+text-align: center;
+  font-size: 24px;
+  margin-bottom: 30px;
+    color: #fefefe;
+}
+.bouton{
+  margin-left: 41%;
+background-color: #fefefe;
+border-color: #fefefe;
+height: 45px;
+    padding: 12px 22px;
+
+    text-decoration: none;
+border: 1px solid transparent;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+-webkit-font-smoothing: auto;
+border-radius: 3px;
+color: #8080BE;
+
+}
+
+* {
+    box-sizing: border-box;
+}
+
+
+/* SECONDE SECONDE PARTIE */
+
+.second{
+height: 310px;
+width: 100%;
+  position: relative;
+  padding-top: 80px;
+  padding-bottom: 80px;
+  background: #fefefe;
+  border-bottom: 1px solid #DDD;
+  box-shadow: 0 -2px 1px rgba(0,0,0,0.07);
+
+}
+
+.taille{
+  height: 65px;
+  display: inline-block;
+
+  padding-left: 0px;
+  padding-right: 204px;
+  text-align: center;
+  margin-left: 222px;
+}
+
+
+.align{
+  display: inline-block;
+      border-right: 1px solid #DDD;
+}
+ .h3s{
+ text-align: center;
+ margin-bottom: 10px;
+font-size: 23px;
+font-weight: 300;
+    color: #4D4D4D;
+        font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.positionp{
+text-align: center;
+color: #6d6d6d;
+font-size: 15px;
+font-weight: 500;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+}
+
+
+/* DEBUT DE LA 3è partie per paid invoice */
+.couleur-fond{
+  background: #F6F9FB;
+  position: relative;
+  text-align: center;
+width: 100%}
+
+.top-text{
+
+color: #777;
+
+
+}
+
+
+.typo-text{
+margin-top: 80px;
+text-align: center;
+  font-size: 26px;
+
+}
+
+.typo-text2{
+margin-top: 10px;
+text-align: center;
+  font-size: 26px;
+
+}
+
+.dollar{
+  display: inline-block;
+font-size: 70px;
+font-weight: 400;
+color: #8080BE;
+}
+
+.textplace{
+  position: relative;
+top: 5px;
+color: #565656;
+display: inline-block;
+margin-top:21px;
+top:-3px;
+
+
+}
+.dol{  display: inline-block;
+  font-size: 32px;
+      font-weight: 400;
+      font-variant: small-caps;
+      text-transform: uppercase;
+      margin: 0 0 0 20px;
+}
+
+.dol2{  display: inline-block;
+  position: relative;
+  top: -5px;
+  margin: 0 0 0 -77px;
+  font-size: 16px;
+  font-weight: 300;
+  color: #999;}
+
+
+
+/* */
+
+.couleur-fond2{
+  width: 100%;
+position: relative;
+  text-align: center;
+  padding: 30px 20px 27px;
+  background: #4C535C;
+  color: #fefefe;
+margin-left: -6px;
+  box-shadow: 0 0 8px rgba(0,0,0,0.04);
+font-size: 24px;
+}
+
+.tt{
+  height: 550px;
+}
+.flo{
+
+  float: left;
+  width: 49%;
+height:100%;
+background: #7CD5EF;
+margin-left: -7px;
+position: relative;
+
+}
+.flo2{
+  float: right;
+  width: 49%;
+  height:700px;
+}
+
+.imggraph{
+  margin-left: 10%;
+  margin-top: 80px;
+  border-radius: 14px;
+
+}
+
+
+.integrate{
+  margin-bottom: 20px;
+    font-size: 30px;
+    font-weight: 300;
+        text-align: left;
+            color: #6d6d6d;;
+            margin-top: 75px;
+            margin-left: 120px;
+                font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+}
+
+.increase{
+      text-align: left;
+        color: #AAA;
+font-size: 18px;
+margin-left: 120px;
+    font-family: "Proxima Nova", "Helvetica Neue", sans-serif;
+}
+
+
+.flo3{
+  float: left;
+
+  width: 49%;
+height: 378px;
+    border-top: 1px solid black;
+
+
+
+}
+
+.flo4{
+  height: 380px;
+  width: 49%;
+  float: right;
+    border-top: 1px solid black;
+    margin-top: -39px;
+    background-color:   #8080BE;
+}
+
+.imggraph2{
+margin-left: 77px;
+margin-top: 20px;
+border-radius: 14px;
+
+}
+
+
+.flo5{
+  float: left;
+  width: 49%;
+  height:100%;
+  background: #7CD5EF;
+  margin-left: -7px;
+  position: relative;
+}
+
+
+.flo6{
+  float: right;
+  width: 49%;
+  height:700px;
+}
